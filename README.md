@@ -3,9 +3,6 @@ the code of Research on Information Content Retrieval Method Based on  Cross-mod
 
 ## Dependencies
 pytorch 1.7.1
-sklearn
-tqdm
-pillow
 
 ## Training
 ### Processing dataset
